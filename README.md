@@ -1,5 +1,10 @@
 # 📊 Internship Application Tracker
 
+🔗 **[Live Demo](https://internship-application-tracker.streamlit.app/))** 
+*A full-stack web application to track and visualize job applications*
+
+# 📊 Internship Application Tracker
+
 A full-stack web application built with Python and Streamlit to help job seekers organize and visualize their internship applications.
 
 ## ✨ Features
